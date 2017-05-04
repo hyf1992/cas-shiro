@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=src/main/webapp/WEB-INF/cas-servlet.xml,src/main/webapp/WEB-INF/unused-spring-configuration/clearpass-configuration.xml,src/main/webapp/WEB-INF/restlet-servlet.xml,src/main/webapp/WEB-INF/spring-configuration,src/main/webapp/WEB-INF/deployerConfigContext.xml
+validator.Unchecked=
